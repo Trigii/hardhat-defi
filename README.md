@@ -4,7 +4,7 @@ Programmatically deposit collateral, and borrow and repay DAI on AAVE.
 
 ## Quickstart
 ```sh
-git clone https://github.com/Trigii/hardhat-defi
+git clone https://github.com/Trigii/hardhat-defi.git
 cd hardhat-defi-fcc
 yarn
 ```
